@@ -1,1 +1,50 @@
+# ------------------------------------------------------------------
+# Laravel
+# ------------------------------------------------------------------
+# File environment lokal. SANGAT PENTING!
+/public/hot
+/public/storage
+/storage/app/public
+/storage/framework/
+/storage/logs/
+/vendor/
+/.idea/
+/.vscode/
 /.env
+/.env.backup
+/.env.production
+/.env.staging
+/.env.testing
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+phpstan-baseline.neon
+/node_modules/
+/bootstrap/cache/*.php
+/bootstrap/cache/packages.php
+/bootstrap/cache/services.php
+
+# ------------------------------------------------------------------
+# File IDE & Sistem Operasi (Umum)
+# ------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
